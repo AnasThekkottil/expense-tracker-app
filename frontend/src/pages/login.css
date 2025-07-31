@@ -1,0 +1,27 @@
+.form{
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.08);
+    width:350px;
+    padding: 15px;
+    margin: 90px auto;
+    border-radius: 10px;
+    text-align: center;
+    
+
+}
+
+.box input{
+    padding: 10px;
+    width: 300px;
+    box-sizing: border-box;
+    margin: 5px;
+    
+
+}
+.box button{
+    background-color: black;
+    color: white;
+    border: 2px black;
+    padding: 10px;
+    width: 300px;
+    margin: 5px;
+}

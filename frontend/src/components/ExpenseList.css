@@ -1,0 +1,35 @@
+.expense-table-container {
+  overflow-x: auto;
+  margin: 20px 0;
+}
+
+
+.expense-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-family: Arial, sans-serif;
+}
+
+.expense-table th,
+.expense-table td {
+  padding: 10px;
+  border: 1px solid #ccc;
+  text-align: left;
+}
+
+.expense-table th {
+  background-color: #f4f4f4;
+}
+
+.expense-table button {
+  margin-right: 5px;
+  padding: 5px 8px;
+  cursor: pointer;
+  border: none;
+  background-color: transparent;
+}
+
+
+.expense-table button:hover {
+  background-color: #f0f0f0;
+}

@@ -1,0 +1,5 @@
+authMiddleware.js is a security gate for your backend routes
+it:
+Verifies the JWT token sent by the frontend
+Identifies the logged-in user from that token
+Blocks unauthorized users from accessing protected routes
